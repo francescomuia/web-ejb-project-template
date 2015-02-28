@@ -7,4 +7,11 @@
   </parent>
   <artifactId>web-project</artifactId>
   <packaging>war</packaging>
+  <dependencies>
+  	<dependency>
+  		<groupId>it.fmuia.apps</groupId>
+  		<artifactId>ejb-client-project</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
